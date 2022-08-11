@@ -1,0 +1,660 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/CUFE/2nd term/Advanced logic design/Logic Project/simulation/modelsim
+T_opt
+!s110 1653055281
+VlHKbN0Oc[UP]^M6GUd>hX0
+04 10 4 work Test_bench fast 0
+=1-8c8caa2be0f9-62879f31-1a2-579c
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vAddRoundKey
+Z2 !s110 1653055280
+!i10b 1
+!s100 hg<BThG:34U12MD[A@@B32
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2UoW9h9S`0Ilkb?dSOL@`3
+R0
+w1652927506
+8E:/CUFE/2nd term/Advanced logic design/Logic Project/AddRoundKey.v
+FE:/CUFE/2nd term/Advanced logic design/Logic Project/AddRoundKey.v
+!i122 8
+L0 1 6
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1653055280.000000
+!s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/AddRoundKey.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/AddRoundKey.v|
+!i113 0
+Z7 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 !s92 -vlog01compat -work work {+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@add@round@key
+vBlockTostate
+R2
+!i10b 1
+!s100 lZ9AR>H]7jBE`f_EjWKG12
+R3
+IHAiTL^A4^6TOIbZoXL7k>3
+R0
+Z9 w1652921904
+8E:/CUFE/2nd term/Advanced logic design/Logic Project/BlockTostate.v
+FE:/CUFE/2nd term/Advanced logic design/Logic Project/BlockTostate.v
+!i122 10
+L0 1 32
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/BlockTostate.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/BlockTostate.v|
+!i113 0
+R7
+R8
+R1
+n@block@tostate
+vcipher
+R2
+!i10b 1
+!s100 =eRV=USlmE6<:ZlAF1l612
+R3
+Ia0l2MaNQ8k4kleYiXekWe3
+R0
+w1653047399
+8E:/CUFE/2nd term/Advanced logic design/Logic Project/cipher.v
+FE:/CUFE/2nd term/Advanced logic design/Logic Project/cipher.v
+!i122 9
+L0 1 57
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/cipher.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/cipher.v|
+!i113 0
+R7
+R8
+R1
+vInv_cipher
+R2
+!i10b 1
+!s100 mnO8[kA7`9k6bOj1_>B;h1
+R3
+IV=9g^VCakoXJjd1eKgI7S2
+R0
+w1653049634
+8E:/CUFE/2nd term/Advanced logic design/Logic Project/Inv_cipher.v
+FE:/CUFE/2nd term/Advanced logic design/Logic Project/Inv_cipher.v
+!i122 11
+L0 1 61
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/Inv_cipher.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/Inv_cipher.v|
+!i113 0
+R7
+R8
+R1
+n@inv_cipher
+vInverseShiftRows
+Z10 !s110 1653055279
+!i10b 1
+!s100 KaEXEKCE]YSJW4AV6oZhb3
+R3
+I4@:7TMjMgMm>>IYkL0zoL0
+R0
+R9
+8E:/CUFE/2nd term/Advanced logic design/Logic Project/InverseShiftRows.v
+FE:/CUFE/2nd term/Advanced logic design/Logic Project/InverseShiftRows.v
+!i122 3
+L0 1 39
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1653055279.000000
+!s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/InverseShiftRows.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/InverseShiftRows.v|
+!i113 0
+R7
+R8
+R1
+n@inverse@shift@rows
+vInvMixColumns
+R10
+!i10b 1
+!s100 9jQ?ABg7VX8JDQfA3V9NG0
+R3
+I6FJElfhN[J=RcP@_FjF1?0
+R0
+Z12 w1653047448
+Z13 8E:/CUFE/2nd term/Advanced logic design/Logic Project/InvMixColumns.v
+Z14 FE:/CUFE/2nd term/Advanced logic design/Logic Project/InvMixColumns.v
+!i122 2
+L0 1 119
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z15 !s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/InvMixColumns.v|
+Z16 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/InvMixColumns.v|
+!i113 0
+R7
+R8
+R1
+n@inv@mix@columns
+vKeyExpansion
+R2
+!i10b 1
+!s100 e7hB]032o3UT4[GcE4gFz2
+R3
+IoPeR5QgOza7l0fBF`d:5f0
+R0
+R9
+8E:/CUFE/2nd term/Advanced logic design/Logic Project/KeyExpansion.v
+FE:/CUFE/2nd term/Advanced logic design/Logic Project/KeyExpansion.v
+!i122 6
+L0 1 50
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/KeyExpansion.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/KeyExpansion.v|
+!i113 0
+R7
+R8
+R1
+n@key@expansion
+vMixColumns
+R10
+!i10b 1
+!s100 =T[>jgDH^1KeTNNQ0Wz:E2
+R3
+I3<dVh;RhU;XP_c>JXNak=2
+R0
+Z17 w1653047389
+Z18 8E:/CUFE/2nd term/Advanced logic design/Logic Project/MixColumns.v
+Z19 FE:/CUFE/2nd term/Advanced logic design/Logic Project/MixColumns.v
+!i122 1
+L0 1 83
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z20 !s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/MixColumns.v|
+Z21 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/MixColumns.v|
+!i113 0
+R7
+R8
+R1
+n@mix@columns
+vmultiplyeleven
+R10
+!i10b 1
+!s100 EFaIOGMJnRIf=a:a6KC=c2
+R3
+IZiB46]<3GRaj]GkWecWkM1
+R0
+R12
+R13
+R14
+!i122 2
+L0 146 16
+R4
+R5
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 0
+R7
+R8
+R1
+vmultiplyfourteen
+R10
+!i10b 1
+!s100 8hG9oGXBZl]T>TQdKON=I1
+R3
+IlN4>Y5=H7I=WWn:hk<5_20
+R0
+R12
+R13
+R14
+!i122 2
+L0 176 14
+R4
+R5
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 0
+R7
+R8
+R1
+vmultiplynine
+R10
+!i10b 1
+!s100 SP>I90[@eElJaN2Bf;;@>0
+R3
+IYf@ZH[QUTZ_8?hXC@mMEB1
+R0
+R12
+R13
+R14
+!i122 2
+L0 132 12
+R4
+R5
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 0
+R7
+R8
+R1
+vmultiplythirteen
+R10
+!i10b 1
+!s100 VZ6<WI5DMWUZlgVNRM4Ee0
+R3
+IaK42U>4;EV<:HWzRAKBMQ0
+R0
+R12
+R13
+R14
+!i122 2
+L0 163 12
+R4
+R5
+r1
+!s85 0
+31
+R11
+R15
+R16
+!i113 0
+R7
+R8
+R1
+vmultiplythree
+R10
+!i10b 1
+!s100 hGl5H:HnL04AzSLSTUB5m3
+R3
+IMc<`=Z8CEQXKTXDJDMzFj1
+R0
+R17
+R18
+R19
+!i122 1
+L0 115 26
+R4
+R5
+r1
+!s85 0
+31
+R11
+R20
+R21
+!i113 0
+R7
+R8
+R1
+vmultiplytwo
+R10
+!i10b 1
+!s100 ALOMVONhFez5<9H6fCFaL1
+R3
+IBIUWC;i4;ZiC5UgkkI^EZ0
+R0
+R17
+R18
+R19
+!i122 1
+L0 86 23
+R4
+R5
+r1
+!s85 0
+31
+R11
+R20
+R21
+!i113 0
+R7
+R8
+R1
+vrcon
+R2
+!i10b 1
+!s100 Gdi82:G=[oU]_;hD0@8Lb0
+R3
+IzZkcf0ZBJ33BO6gUB^BB03
+R0
+Z22 w1652921906
+Z23 8E:/CUFE/2nd term/Advanced logic design/Logic Project/RotWord.v
+Z24 FE:/CUFE/2nd term/Advanced logic design/Logic Project/RotWord.v
+!i122 7
+L0 12 20
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z25 !s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/RotWord.v|
+Z26 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/RotWord.v|
+!i113 0
+R7
+R8
+R1
+vRotWord
+R2
+!i10b 1
+!s100 F@;47FPRfOM?_W=097?W>3
+R3
+IbjofDiDWzB7fzz>nZjGFD2
+R0
+R22
+R23
+R24
+!i122 7
+L0 1 10
+R4
+R5
+r1
+!s85 0
+31
+R6
+R25
+R26
+!i113 0
+R7
+R8
+R1
+n@rot@word
+vs_box
+R10
+!i10b 1
+!s100 U0T1d]zIHQ7P=]nWc`Qcm1
+R3
+I;T_m`h>]`9aJIW5IjNXh22
+R0
+R22
+Z27 8E:/CUFE/2nd term/Advanced logic design/Logic Project/subBytes.v
+Z28 FE:/CUFE/2nd term/Advanced logic design/Logic Project/subBytes.v
+!i122 4
+L0 35 262
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z29 !s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/subBytes.v|
+Z30 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/subBytes.v|
+!i113 0
+R7
+R8
+R1
+vs_box_inv
+R10
+!i10b 1
+!s100 ]YKkOS1eG3DMTkXl8dbc`2
+R3
+I62DYed^8TY>N1_onaPZ080
+R0
+R22
+Z31 8E:/CUFE/2nd term/Advanced logic design/Logic Project/subBytes_inv.v
+Z32 FE:/CUFE/2nd term/Advanced logic design/Logic Project/subBytes_inv.v
+!i122 5
+L0 17 262
+R4
+R5
+r1
+!s85 0
+31
+R11
+Z33 !s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/subBytes_inv.v|
+Z34 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/subBytes_inv.v|
+!i113 0
+R7
+R8
+R1
+vShiftRows
+R10
+!i10b 1
+!s100 TGZE_51SU:M32<_=Jn@7T2
+R3
+IF^f@=2>5WJHQlZB?NoCbI3
+R0
+R22
+8E:/CUFE/2nd term/Advanced logic design/Logic Project/ShiftRows.v
+FE:/CUFE/2nd term/Advanced logic design/Logic Project/ShiftRows.v
+!i122 0
+L0 1 38
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/ShiftRows.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/ShiftRows.v|
+!i113 0
+R7
+R8
+R1
+n@shift@rows
+vsubBytes
+R10
+!i10b 1
+!s100 VS[9a@LM<Pc[ggLI]K_n33
+R3
+I?dj581zadQ4dOTmJJ5BHO3
+R0
+R22
+R27
+R28
+!i122 4
+L0 19 15
+R4
+R5
+r1
+!s85 0
+31
+R11
+R29
+R30
+!i113 0
+R7
+R8
+R1
+nsub@bytes
+vsubBytes_inv
+R10
+!i10b 1
+!s100 5`S@Vf@]nhTHmk_;g[=4B1
+R3
+InMBHJ=Eg644BT]=bc^VzF2
+R0
+R22
+R31
+R32
+!i122 5
+Z35 L0 1 15
+R4
+R5
+r1
+!s85 0
+31
+R11
+R33
+R34
+!i113 0
+R7
+R8
+R1
+nsub@bytes_inv
+vsubBytes_state
+R10
+!i10b 1
+!s100 D;Y[bVG4^mAnmF`g1_[oV0
+R3
+IBJ^`TCR<7LOYUH;9jcEL52
+R0
+R22
+R27
+R28
+!i122 4
+R35
+R4
+R5
+r1
+!s85 0
+31
+R11
+R29
+R30
+!i113 0
+R7
+R8
+R1
+nsub@bytes_state
+vTest_bench
+R2
+!i10b 1
+!s100 ZP4;Yd=oV71E;QD5OSBB62
+R3
+I9WPHagA;g5f>BGaFZmkDS2
+R0
+Z36 w1653051103
+Z37 8E:/CUFE/2nd term/Advanced logic design/Logic Project/Test_bench.v
+Z38 FE:/CUFE/2nd term/Advanced logic design/Logic Project/Test_bench.v
+!i122 13
+L0 1 24
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z39 !s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/Test_bench.v|
+Z40 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/Test_bench.v|
+!i113 0
+R7
+R8
+R1
+n@test_bench
+vTest_bench_cipher
+R2
+!i10b 1
+!s100 >z<YKSXKD=D8S<[M1a@Z42
+R3
+ISzel2GlJYBCKUz7UBLkb32
+R0
+R36
+R37
+R38
+!i122 13
+L0 26 31
+R4
+R5
+r1
+!s85 0
+31
+R6
+R39
+R40
+!i113 0
+R7
+R8
+R1
+n@test_bench_cipher
+vTest_bench_key
+R2
+!i10b 1
+!s100 DSDVclYZj0182da]3]Am]3
+R3
+IfTo3HHga<NbzK:XjX:emM3
+R0
+R36
+R37
+R38
+!i122 13
+L0 58 31
+R4
+R5
+r1
+!s85 0
+31
+R6
+R39
+R40
+!i113 0
+R7
+R8
+R1
+n@test_bench_key
+vWrapper
+R2
+!i10b 1
+!s100 cfT69g4T;A5OY6FBFB?U73
+R3
+IG0OBCA>07[:;i84o2AZF^1
+R0
+w1653055244
+8E:/CUFE/2nd term/Advanced logic design/Logic Project/Wrapper.v
+FE:/CUFE/2nd term/Advanced logic design/Logic Project/Wrapper.v
+!i122 12
+L0 1 34
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/CUFE/2nd term/Advanced logic design/Logic Project/Wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/CUFE/2nd term/Advanced logic design/Logic Project|E:/CUFE/2nd term/Advanced logic design/Logic Project/Wrapper.v|
+!i113 0
+R7
+R8
+R1
+n@wrapper
